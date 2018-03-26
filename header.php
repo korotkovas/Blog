@@ -56,22 +56,8 @@
 							  				'menu_id' => '',
 							  				'depth' => 1
 							  			));
-							  		?> 
-								<!-- 	<ul class="nav navbar-nav">
-									  <li><a href="#">Home</a></li>
-									  <li><a href="#"> Features </a></li>
-									  <li><a href="#">Services </a></li>
-									  <li><a href="#"> How it work</a></li>
-									  <li><a href="#"> Priceing </a></li>
-									  <li><a href="#">Team </a></li>
-									  <li><a href="#"> Testimonial </a></li>
-									  <li><a href="#"> Blog  </a></li>
-									  <li><a href="#">  Contact  </a></li>
-									</ul>    -->   
+							  		?>   
                           		</div>
-							  
-							 
-       			
 						</nav>
 					</div>
     	        </div>
