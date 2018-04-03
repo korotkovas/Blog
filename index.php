@@ -42,45 +42,9 @@
 				</article>
         		<?php endwhile; ?>
         	<?php endif; ?>
-	
-				<article class="blog_post">
-					<h4> <a href="#"> All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks </a></h4>
 						
-						<div class="blog_category">
-							<ul> 
-								<li> <a href="#">Company news, </a> </li>
-								<li> <a href="#">Fresh releases </a> </li>
-							</ul>
-						</div>	
-						
-						<div class="blog_text">
-							<ul>
-								<li> | </li>
-								<li> <a href="#"> Post By : Admin   </a> </li>
-								<li> | </li>
-								<li>  On : 20 may 2016 </li>
-							</ul>
-						</div>
-						
-						<div class="blog_post_img">
-							<a href="#">	<img src="images/blog_post_img3.png" alt="image"> </a>
-						</div>
-						
-						<p> All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc. </p>
-					
-						<a href="#"> Continue reading <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-				</article>						
-				
-				<div class="next_page">
-          			<ul class="page-numbers">
-						<li><span class="page-numbers current">1</span></li>
-						<li><a href="#" class="page-numbers">2</a></li>
-						<li><a href="#" class="page-numbers">3</a></li>
-						<li><a href="#" class="page-numbers">4</a></li>
-						<li><a href="#" class="next page-numbers">Next</a></li>
-					</ul>
-       			 </div>
-			
+				<?php wptuts_pagination(); ?>
+				<!-- Cia buvo paginacija htmlo -->
 			</div>	
 			
 				<!-- Cia buvo sidebaras -->
